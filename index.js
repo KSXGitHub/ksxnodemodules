@@ -13,4 +13,4 @@ function KSXNodeModules() {
 	
 }
 
-exports = new KSXNodeModules();
+module.exports = new KSXNodeModules();
