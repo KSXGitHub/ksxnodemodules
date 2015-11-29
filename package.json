@@ -13,9 +13,9 @@
 	"engines": {
 		"node": ">=4.9.0"
 	},
-	"files": {
+	"files": [
 		"index.js",
 		"lib/"
-	}
+	]
 }
 
